@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shahil Sharma
-A curious mind exploring the crossroads of software, hardware, and intelligence. I turn ideas into code, sensors into stories, and data into insight. From Python scripts that think, to ESP32 boards that blink, I love crafting smart systems that connect our world. My toolkit spans AI (TensorFlow, YOLO) to cloud and embedded tech (Azure, Raspberry Pi, FreeRTOS) — and I’m always experimenting with what’s next. 🌐💡<br>Currently navigating the world of IoT, AI, and cloud computing, one commit at a time.
+A curious mind exploring the crossroads of software, hardware, and intelligence. I turn ideas into code, sensors into stories, and data into insight. From Python scripts that think, to ESP32 boards that blink, I love crafting smart systems that connect our world. My toolkit spans AI (LLMs & agents, generative motion & image models, computer vision, semantic retrieval, and GPU model serving) to cloud and embedded tech (Azure, Raspberry Pi, FreeRTOS) — and I’m always experimenting with what’s next. 🌐💡<br>Currently navigating the world of IoT, AI, and cloud computing, one commit at a time.
 
 
 ## 🌐 Socials:
